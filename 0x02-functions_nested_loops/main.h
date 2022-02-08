@@ -1,6 +1,6 @@
 #ifndef MAIN__H
 #define MAIN__H
-
+int print_sign(int n);
 int _isalpha(char c);
 int _putchar(char c);
 void print_alphabet(void);
