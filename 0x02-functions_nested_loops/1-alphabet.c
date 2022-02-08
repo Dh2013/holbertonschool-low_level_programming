@@ -1,11 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code
- *Write a function that prints the alphabet, 
- *in lowercase, 
- *followed by a new line.
- * Return: nothing.
+ *Write a function that prints the alphabet,in lowercase.
+ *@ch:char 
+ *
  */
 
 void print_alphabet(void)
