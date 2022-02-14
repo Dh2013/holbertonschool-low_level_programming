@@ -1,4 +1,4 @@
-#ifndef HEADER_FILE_NAME
-#define HEADER_FILE_NAME
+#ifndef MAIN__H
+#define MAIN__H
 void reset_to_98(int *n);
 #endif
