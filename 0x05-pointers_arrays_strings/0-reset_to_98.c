@@ -2,14 +2,13 @@
 #include <stdio.h>
 
 /**
- * main - check the code 
+ *  reset_to_98 - parameter and updates the value it points t
  *
- * Return: Always 0.
+ * .
  */
 
 void reset_to_98(int *n)
 {
 	*n = 98;
 
-    return (0);
 }
