@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ * main - function that compaire positive and negative numbers
+ *n: int
+ * Return:0 Success
  **/
 int main(void)
 {
