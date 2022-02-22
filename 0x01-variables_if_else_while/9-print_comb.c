@@ -5,15 +5,19 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-
-	
-	char ch;
+	int n;
+	int i;
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
-	 for (ch= ‘a’; ch<= ‘z’; ch++)
-	 {
 
-                  putchar(ch);
-	 }
-                  putchar (‘\n’);
-	return (0);
-}
+	for(i = 0;i <= 9;i++)
+	{
+		if (i == 9)
+		{
+			putchar(',');
+			putchar(' ');
+		}
+	}
+
+	return (0);}
