@@ -3,8 +3,8 @@
 /**
  * main - print the new name
  * @argc:stands for argument count
- * @argv:stands for argument values 
- * return: 0 success
+ * @argv:stands for argument values
+ * Return: 0 success
  */
 int main(int argc, char *argv[])
 {
